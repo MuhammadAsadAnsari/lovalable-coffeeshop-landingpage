@@ -1,0 +1,17 @@
+node_modules
+dist
+.output
+.vinxi
+.nitro
+.vercel
+.turbo
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+.idea
+!.vscode/extensions.json
+*.local
+.wrangler
+.cache
+config.bat
